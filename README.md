@@ -19,7 +19,3 @@ Most solutions include a short note on the approach, time and space complexity, 
 ## Language
 
 Primarily Python 3.
-
-## Progress
-
-A living repo. I add solutions as I work through problems.
